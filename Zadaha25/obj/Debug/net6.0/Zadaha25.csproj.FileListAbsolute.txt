@@ -1,0 +1,15 @@
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zadaha25/bin/Debug/net6.0/Zadaha25
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zadaha25/bin/Debug/net6.0/Zadaha25.deps.json
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zadaha25/bin/Debug/net6.0/Zadaha25.runtimeconfig.json
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zadaha25/bin/Debug/net6.0/Zadaha25.dll
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zadaha25/bin/Debug/net6.0/Zadaha25.pdb
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zadaha25/obj/Debug/net6.0/Zadaha25.csproj.AssemblyReference.cache
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zadaha25/obj/Debug/net6.0/Zadaha25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zadaha25/obj/Debug/net6.0/Zadaha25.AssemblyInfoInputs.cache
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zadaha25/obj/Debug/net6.0/Zadaha25.AssemblyInfo.cs
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zadaha25/obj/Debug/net6.0/Zadaha25.csproj.CoreCompileInputs.cache
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zadaha25/obj/Debug/net6.0/Zadaha25.dll
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zadaha25/obj/Debug/net6.0/refint/Zadaha25.dll
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zadaha25/obj/Debug/net6.0/Zadaha25.pdb
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zadaha25/obj/Debug/net6.0/Zadaha25.genruntimeconfig.cache
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zadaha25/obj/Debug/net6.0/ref/Zadaha25.dll

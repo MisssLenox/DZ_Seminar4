@@ -1,0 +1,15 @@
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zafaha29/bin/Debug/net6.0/Zafaha29
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zafaha29/bin/Debug/net6.0/Zafaha29.deps.json
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zafaha29/bin/Debug/net6.0/Zafaha29.runtimeconfig.json
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zafaha29/bin/Debug/net6.0/Zafaha29.dll
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zafaha29/bin/Debug/net6.0/Zafaha29.pdb
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zafaha29/obj/Debug/net6.0/Zafaha29.csproj.AssemblyReference.cache
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zafaha29/obj/Debug/net6.0/Zafaha29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zafaha29/obj/Debug/net6.0/Zafaha29.AssemblyInfoInputs.cache
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zafaha29/obj/Debug/net6.0/Zafaha29.AssemblyInfo.cs
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zafaha29/obj/Debug/net6.0/Zafaha29.csproj.CoreCompileInputs.cache
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zafaha29/obj/Debug/net6.0/Zafaha29.dll
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zafaha29/obj/Debug/net6.0/refint/Zafaha29.dll
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zafaha29/obj/Debug/net6.0/Zafaha29.pdb
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zafaha29/obj/Debug/net6.0/Zafaha29.genruntimeconfig.cache
+/Users/elenaivanova/Desktop/учеба/Семинар Базовые Алгоритмы/DZ_Seminar4/Zafaha29/obj/Debug/net6.0/ref/Zafaha29.dll
